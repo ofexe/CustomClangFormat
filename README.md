@@ -9,5 +9,5 @@
 2. 修改clang-format.txt中的文本内容为自己的格式设置即可。
 
 ## 说明
-* clang到了13还是14版本的时候，才支持参数-style=file:\<path\>的形式，所以这里用的clang-format.exe是14版本的。
+* clang到了14版本的时候，才支持参数-style=file:\<path\>的形式，所以这里用的clang-format.exe是14版本的。
 
